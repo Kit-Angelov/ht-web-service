@@ -17,8 +17,7 @@ if READ_DOT_ENV_FILE:
 # GENERAL
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#debug
-# DEBUG = env.bool('DJANGO_DEBUG', False)
-DEBUG = True
+DEBUG = env.bool('DJANGO_DEBUG', False)
 # Local time zone. Choices are
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
 # though not all of them may be available with every OS.
@@ -38,13 +37,23 @@ USE_TZ = True
 # DATABASES
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'ht_web_service',
+#         'USER': 'postgres',
+#         'PASSWORD': 'root',
+#         'HOST': '192.168.2.252',
+#         'PORT': '5432',
+#     }
+# }
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ht_web_service',
-        'USER': 'postgres',
-        'PASSWORD': 'root',
-        'HOST': '192.168.2.252',
+        'USER': 'htwebservice',
+        'PASSWORD': 'htwebserviceadmin',
+        'HOST': '195.98.73.242',
         'PORT': '5432',
     }
 }
