@@ -1,0 +1,134 @@
+GET http://192.168.2.236:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T022310.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020757.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020721.200.json
+
+###
+
+GET http://127.0.0.1:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://127.0.0.1:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://127.0.0.1:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020545.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020506.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020504.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020503.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020502.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020436.200.json
+
+###
+
+GET http://192.168.2.236:8000/api_v1/features
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-30T020431.200.json
+
+###
+
+GET /192.168.2.236/8000
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http:192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http:192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http:192.168.2.236:8000/api_v1/features/1
+Accept: */*
+Cache-Control: no-cache
+
+###
+

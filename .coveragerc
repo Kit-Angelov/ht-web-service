@@ -1,0 +1,5 @@
+[run]
+include = ht_web_service/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
