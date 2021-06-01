@@ -94,7 +94,7 @@ text-unidecode==1.2
 traitlets==4.3.2
 Unidecode==0.4.21
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.14.1
 whichcraft==0.4.1
